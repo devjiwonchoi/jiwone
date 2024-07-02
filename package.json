@@ -1,0 +1,22 @@
+{
+  "name": "jiwone",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbo",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "canary",
+    "react": "19.0.0-rc.0",
+    "react-dom": "19.0.0-rc.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "turbo": "^2.0.6",
+    "typescript": "^5.5.3"
+  },
+  "packageManager": "pnpm@9.4.0"
+}
