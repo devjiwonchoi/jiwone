@@ -15,8 +15,10 @@
     "@types/node": "^20.14.9",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
+    "@vercel/edge-config": "^1.2.0",
     "turbo": "^2.0.6",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.3",
+    "vercel": "^34.2.8"
   },
   "packageManager": "pnpm@9.4.0"
 }
